@@ -11,7 +11,7 @@ http://modapi.survivetheforest.net/mod/7/ultimate-cheatmenu
 - 라벨 클릭 가능
 
 ## v2.1.1
-- L18n: Added Spanish, Korean, Japanese
+- L18n: 스페인어, 한국어, 일본어 추가
 
 ## v2.1.0
 - respawn key 에 객체 추가
